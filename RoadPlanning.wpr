@@ -1,0 +1,10 @@
+#!wing
+#!version=5.0
+##################################################################
+# Wing IDE project file                                          #
+##################################################################
+[project attributes]
+proj.file-list = [loc('PathSearch.py'),
+                  loc('RoadCreate.py'),
+                  loc('TrafficPlanning.py')]
+proj.file-type = 'shared'
